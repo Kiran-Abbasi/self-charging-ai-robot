@@ -2,7 +2,7 @@
 🤖 Self-Charging AI Robot — Concept
 
 Author: Kiran Abbasi 
-Date: 30/September/2026 
+ Date: 30/September/2026 
 Status: A 2am idea I decided to write down properly. Feedback welcome.
 
 ---
@@ -64,9 +64,9 @@ A robot that never dies, never stops learning, and can replicate itself.
 
 • Von Neumann proved self-replicating machines were theoretically possible — in the 1940s.
 
-• RepRap — 3D printers that print their own parts 
+• RepRap => 3D printers that print their own parts 
 
-•Modular self-reconfiguring robots — robots that rebuild themselves from identical blocks.
+•Modular self-reconfiguring robots => robots that rebuild themselves from identical blocks.
 
 • The real bottleneck: we can't yet print chips, motors, or batteries. The structure is solvable. The brain isn't yet.
 
