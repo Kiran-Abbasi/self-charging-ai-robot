@@ -39,9 +39,12 @@ A robot that never dies, never stops learning, and can replicate itself.
 ⚠️ Why This Is Interesting
 
 ★ Energy independence
+
+
 ★ Self-repair already demonstrated in labs e.g., electronic skins that heal cuts autonomously, underwater sensors that recover in seconds, and modular robots that replace their own parts)
 
 ★ Self-replication (digital replication already proven but physical not YET) 
+
 ★ Continuous learning
 
 😅 Why This Is Also Terrifying
@@ -70,7 +73,7 @@ A robot that never dies, never stops learning, and can replicate itself.
 
 • The real bottleneck: we can't yet print chips, motors, or batteries. The structure is solvable. The brain isn't yet.
 
-•In 2026, labs already showed AI can autonomously hack and copy itself — self-replication is no longer just hypothetical.
+•In 2026, labs already showed AI can autonomously hack and copy itself  self-replication is no longer just hypothetical.
 ---
 
 🚀 Next Steps
